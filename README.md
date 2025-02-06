@@ -5,9 +5,13 @@
 ## Установка
 
 #### python -m venv venv -> Создаём виртуальное окружение
-#### #source venv/bin/activate -> Активируем виртуальное окружение (Windows)
-#### #venv\Scripts\activate -> Активируем виртуальное окружение (Linux/MacOs)
-#### #ppip install -r requirements.txt -> Установить зависимости
+#### source venv/bin/activate -> Активируем виртуальное окружение (Windows)
+#### venv\Scripts\activate -> Активируем виртуальное окружение (Linux/MacOs)
+#### pip install -r requirements.txt -> Установить зависимости
+
+
+##### Вводить строку передаточной функции таким образом (100p^2*5)/(3p^3-2p^2+5)*(p^2*5) [Пример]
+###### Числитель и знаменатель должны быть в скобках
 
 
 
